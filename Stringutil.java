@@ -1,2 +1,1 @@
-this is java class
-added this line
+this is java class 
